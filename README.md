@@ -1,16 +1,3 @@
-# Deli Counter - Take a Number
-
-## Objectives
-1. Practice building methods that use iteration and controlling their return values.
-2. Practice manipulating arrays (adding elements, removing elements, etc.).
-
-## Instructions
-
-The local deli is putting in a new computerized queue to keep track of their customers and improve productivity. At the beginning of the day, the deli is empty so the queue should be represented by an empty array:
-
-```ruby
-katz_deli = []
-```
 
 Write all of your code in `deli_counter.rb`
 
