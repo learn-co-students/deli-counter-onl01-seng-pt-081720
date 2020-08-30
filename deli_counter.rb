@@ -10,5 +10,6 @@ def line(array)
       temp_string + "#{counter + 1}. #{array[counter]} "
       counter += 1
     end
+    puts temp_string
   end
 end
