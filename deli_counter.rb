@@ -7,7 +7,7 @@ def line(array)
   else
     temp_string = "The line is currently: "
     while counter < array.length
-      temp_string + "#{counter + 1}. #{array[counter]} "
+      temp_string = temp_string + "#{counter + 1}. #{array[counter]} "
       counter += 1
     end
     puts temp_string
